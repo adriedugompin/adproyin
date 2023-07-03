@@ -5,7 +5,7 @@
       "ranking":5
    },
    {
-      "alumno":"Juan",
+      "alumno":"Tulia",
       "nota":4,
       "ranking":150
    },
