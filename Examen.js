@@ -6,7 +6,7 @@
    },
    {
       "alumno":"Tulia",
-      "nota":4,
+      "nota":9,
       "ranking":150
    },
    {
