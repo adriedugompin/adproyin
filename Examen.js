@@ -12,12 +12,12 @@
    {
       "alumno":"Eduardo",
       "nota":8.09,
-      "ranking":50
+      "ranking":80
    },
    {
       "alumno":"Samantha",
       "nota":7.09,
-      "ranking":10
+      "ranking":40
    },
    {
       "alumno":"Juliana",
