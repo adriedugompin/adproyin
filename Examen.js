@@ -17,7 +17,7 @@
    {
       "alumno":"Samantha",
       "nota":7.09,
-      "ranking":90
+      "ranking":95
    },
    {
       "alumno":"Juliana",
