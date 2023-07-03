@@ -26,7 +26,7 @@
    },
    {
       "alumno":"Juan",
-      "nota":5.09,
+      "nota":7.09,
       "ranking":250
    },
    {
