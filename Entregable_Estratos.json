@@ -1,28 +1,28 @@
 {
 	"EstratoTotal":	[
     {
-        "Estrato": "Uno",
+        "Estrato": "1",
         "ConteoEstrato": 472
     },
     {
-        "Estrato": "Dos",
+        "Estrato": "2",
         "ConteoEstrato": 1612
     },
     {
-        "Estrato": "Tres",
+        "Estrato": "3",
         "ConteoEstrato": 1735
     },
     {
-        "Estrato": "Cuatro",
+        "Estrato": "4",
         "ConteoEstrato": 460
     },
     {
-        "Estrato": "Cinco",
+        "Estrato": "5",
         "ConteoEstrato": 470
     }    
 	],
 	   "EstratosSegregados":{
-         "Uno":[
+         "1":[
             {
                "Departamento": "ATLANTICO",
                "ConteoDpto": 41
@@ -72,7 +72,7 @@
                "ConteoDpto": 65
             }
          ],
-   "Dos":[
+   "2":[
             {
                "Departamento": "ATLANTICO",
                 "ConteoDpto": 43
@@ -134,7 +134,7 @@
                "ConteoDpto": 166
             }
          ],
-   "Tres":[
+   "3":[
             {
                "Departamento": "BARRANQUILLA",
                "ConteoDpto": 98
@@ -192,7 +192,7 @@
                "ConteoDpto": 31
             }
          ],
-   "Cuatro":[
+   "4":[
             {
                "Departamento": "BARRANQUILLA",
                 "ConteoDpto": 43
@@ -222,7 +222,7 @@
                "ConteoDpto": 45
             }
          ],
-   "Cinco":[
+   "5":[
             {
                "Departamento": "ANTIOQUIA",
                "ConteoDpto":100
