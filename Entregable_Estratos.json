@@ -1,0 +1,244 @@
+{
+	"EstratoTotal":	[
+    {
+        "Estrato": "Uno",
+        "ConteoEstrato": 472
+    },
+    {
+        "Estrato": "Dos",
+        "ConteoEstrato": 1612
+    },
+    {
+        "Estrato": "Tres",
+        "ConteoEstrato": 1735
+    },
+    {
+        "Estrato": "Cuatro",
+        "ConteoEstrato": 460
+    },
+    {
+        "Estrato": "Cinco",
+        "ConteoEstrato": 470
+    }    
+	],
+	   "EstratosSegregados":{
+         "Uno":[
+            {
+               "Departamento": "ATLANTICO",
+               "ConteoDpto": 41
+            },
+            {
+               "Departamento": "CALI",
+               "ConteoDpto": 33
+            },
+            {
+               "Departamento": "CARTAGENA",
+               "ConteoDpto": 33
+            },
+            {
+               "Departamento": "CUNDINAMARCA",
+               "ConteoDpto": 67
+            },
+            {
+               "Departamento": "GUAVIARE",
+               "ConteoDpto": 34
+            },
+            {
+               "Departamento": "HUILA",
+               "ConteoDpto": 34
+            },
+            {
+               "Departamento": "META",
+               "ConteoDpto": 34
+            },
+            {
+               "Departamento": "SANTANDER",
+               "ConteoDpto": 34
+            },
+            {
+               "Departamento": "STA MARTA D.E.",
+               "ConteoDpto": 32
+            },
+            {
+               "Departamento": "SUCRE",
+               "ConteoDpto": 31
+            },
+            {
+               "Departamento": "TOLIMA",
+               "ConteoDpto": 34
+            },
+            {
+               "Departamento": "VALLE",
+               "ConteoDpto": 65
+            }
+         ],
+   "Dos":[
+            {
+               "Departamento": "ATLANTICO",
+                "ConteoDpto": 43
+            },
+            {
+               "Departamento": "BARRANQUILLA",
+               "ConteoDpto": 68
+            },
+            {
+               "Departamento": "BOYACA",
+               "ConteoDpto": 39
+            },
+            {
+               "Departamento": "CALI",
+               "ConteoDpto": 333
+            },
+            {
+               "Departamento": "CARTAGENA",
+               "ConteoDpto": 100
+            },
+            {
+               "Departamento": "CUNDINAMARCA",
+               "ConteoDpto": 298
+            },
+            {
+               "Departamento": "HUILA",
+               "ConteoDpto": 69
+            },
+            {
+               "Departamento": "META",
+               "ConteoDpto": 53
+            },
+            {
+               "Departamento": "PUTUMAYO",
+               "ConteoDpto": 72
+            },
+            {
+               "Departamento": "RISARALDA",
+               "ConteoDpto": 98
+            },
+            {
+               "Departamento": "SAN ANDRES",
+               "ConteoDpto": 35
+            },
+            {
+               "Departamento": "SANTANDER",
+               "ConteoDpto": 45
+            },
+            {
+               "Departamento": "STA MARTA D.E.",
+               "ConteoDpto": 32
+            },
+            {
+               "Departamento": "TOLIMA",
+               "ConteoDpto": 161
+            },
+            {
+               "Departamento": "VALLE",
+               "ConteoDpto": 166
+            }
+         ],
+   "Tres":[
+            {
+               "Departamento": "BARRANQUILLA",
+               "ConteoDpto": 98
+            },
+            {
+               "Departamento": "CALDAS",
+               "ConteoDpto": 68
+            },
+            {
+               "Departamento": "CALI",
+               "ConteoDpto": 297
+            },
+            {
+               "Departamento": "CARTAGENA",
+               "ConteoDpto": 67
+            },
+            {
+               "Departamento": "CAUCA",
+               "ConteoDpto": 41
+            },
+            {
+               "Departamento": "CUNDINAMARCA",
+               "ConteoDpto": 435
+            },
+            {
+               "Departamento": "GUAJIRA",
+               "ConteoDpto": 50
+            },
+            {
+               "Departamento": "META",
+               "ConteoDpto": 98
+            },
+            {
+               "Departamento": "NORTE SANTANDER",
+               "ConteoDpto": 31
+            },
+            {
+               "Departamento": "QUINDIO",
+               "ConteoDpto": 65
+            },
+            {
+               "Departamento": "RISARALDA",
+               "ConteoDpto": 129
+            },
+            {
+               "Departamento": "SANTANDER",
+               "ConteoDpto": 164
+            },
+            {
+               "Departamento": "TOLIMA",
+               "ConteoDpto": 161
+            },
+            {
+               "Departamento": "VALLE",
+               "ConteoDpto": 31
+            }
+         ],
+   "Cuatro":[
+            {
+               "Departamento": "BARRANQUILLA",
+                "ConteoDpto": 43
+            },
+            {
+               "Departamento": "CALDAS",
+               "ConteoDpto": 35
+            },
+            {
+               "Departamento": "CALI",
+               "ConteoDpto": 169
+            },
+            {
+               "Departamento": "CUNDINAMARCA",
+               "ConteoDpto": 38
+            },
+            {
+               "Departamento": "SANTANDER",
+               "ConteoDpto": 65
+            },
+            {
+               "Departamento": "TOLIMA",
+               "ConteoDpto": 65
+            },
+            {
+               "Departamento": "VALLE",
+               "ConteoDpto": 45
+            }
+         ],
+   "Cinco":[
+            {
+               "Departamento": "ANTIOQUIA",
+               "ConteoDpto":100
+            },
+            {
+               "Departamento": "CALI",
+               "ConteoDpto": 130
+            },
+			            {
+               "Departamento": "TOLIMA",
+               "ConteoDpto": 99
+            },
+            {
+               "Departamento": "VALLE",
+               "ConteoDpto": 141
+            }
+         ]
+   }
+}
