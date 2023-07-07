@@ -12,17 +12,17 @@
    {
       "nombre":"Milena",
       "nota":9.5,
-      "ranking":3
+      "ranking":9
    },
    {
       "nombre":"Juliana",
       "nota":7.75,
-      "ranking":4
+      "ranking":7
    },
    {
       "nombre":"Valeria",
       "nota":9,
-      "ranking":5
+      "ranking":9
    },
    {
       "nombre":"Juan",
@@ -32,12 +32,12 @@
    {
       "nombre":"Jorge",
       "nota":2.5,
-      "ranking":7
+      "ranking":2
    },
    {
       "nombre":"Tulia",
       "nota":5.2,
-      "ranking":8
+      "ranking":5
    },
    {
       "nombre":"Alberto",
