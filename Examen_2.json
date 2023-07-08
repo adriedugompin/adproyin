@@ -2,12 +2,12 @@
    {
       "alumno":"Adrian",
       "nota":9.89,
-      "ranking":40
+      "ranking":20
    },
    {
       "alumno":"Tulia",
       "nota":9,
-      "ranking":50
+      "ranking":40
    },
    {
       "alumno":"Eduardo",
