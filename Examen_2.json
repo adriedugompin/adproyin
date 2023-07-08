@@ -1,7 +1,7 @@
 [
    {
       "alumno":"Adrian",
-      "nota":10,
+      "nota":9.89,
       "ranking":10
    },
    {
@@ -11,22 +11,22 @@
    },
    {
       "alumno":"Eduardo",
-      "nota":8.5,
+      "nota":8.09,
       "ranking":90
    },
    {
       "alumno":"Samantha",
-      "nota":7.5,
+      "nota":7.09,
       "ranking":150
    },
    {
       "alumno":"Juliana",
-      "nota":7,
+      "nota":6.09,
       "ranking":180
    },
    {
       "alumno":"Juan",
-      "nota":5.5,
+      "nota":5.09,
       "ranking":200
    },
    {
